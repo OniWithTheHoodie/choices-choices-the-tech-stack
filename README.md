@@ -32,20 +32,20 @@ Door middel van media queries is de pagina responsive en te gebruiken op elk sch
 De afbeeldingen hebben een standaard breedte en hoogte om layoutverschuiving te voorkomen.
 
 ### Technieken
-- HTML
-@@ -58,16 +59,16 @@ De images hebben een standaard width en height, zodat dit layout shifting voorko
+- HTML, CSS, JS
+-  De images hebben een standaard width en height, zodat dit layout shifting voorko
 
 ## 🔧 Installatie
 <!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
 
-Clone deze repository.
-Open de repository met een code-editor naar keuze.
-Open de terminal in de code-editor.
-Typ npx nuxi@latest init in de terminal om alle benodigdheden voor het project te installeren.
-De terminal zal na de installatie vragen of je wilt dat er een git-repo voor jou wordt ingericht. Zeg nee, omdat deze repository is gecloned. Als je ja zegt, krijg je een conflict bij het pushen omdat de instellingen worden aangepast, omdat Nuxt/Terminal het voor jou inricht. Zeg dus alleen ja als je een eigen aparte repository maakt vanuit deze repo.
-Verander het pad van het project naar cd nuxt-app om het te kunnen openen.
-Om het project te openen, typ je in de terminal: npm run dev of npm run dev -- -o om de server op te starten.
-Gebruik de link <a href="http://localhost:3000/">localhost</a> om het project lokaal te bekijken.
-Mocht je het project online bekijken, dan kan dat via <a href="https://choices-choices-the-tech-stack-lovat.vercel.app/" alt="link naar de website">deze link</a>.
+1. Clone deze repository.
+2. Open de repository met een code-editor naar keuze.
+3. Open de terminal in de code-editor.
+4. Typ npx nuxi@latest init in de terminal om alle benodigdheden voor het project te installeren.
+5. De terminal zal na de installatie vragen of je wilt dat er een git-repo voor jou wordt ingericht. Zeg nee, omdat deze repository is gecloned. Als je ja zegt, krijg je een conflict bij het pushen omdat de instellingen worden aangepast, omdat Nuxt/Terminal het voor jou inricht. Zeg dus alleen ja als je een eigen aparte repository maakt vanuit deze repo.
+6. Verander het pad van het project naar cd nuxt-app om het te kunnen openen.
+7. Om het project te openen, typ je in de terminal: npm run dev of npm run dev -- -o om de server op te starten.
+8 Gebruik de link <a href="http://localhost:3000/">localhost</a> om het project lokaal te bekijken.
+9. Mocht je het project online bekijken, dan kan dat via <a href="https://choices-choices-the-tech-stack-lovat.vercel.app/" alt="link naar de website">deze link</a>.
 ## 👨‍💻 Bronnen
 - <a href="https://nuxt.com/docs/getting-started/introduction">Nuxt js documentatie</a>
