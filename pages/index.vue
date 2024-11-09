@@ -1,3 +1,6 @@
+<script>
+    export  let data;
+</script>
 <template>
     <Header></Header>
 
@@ -5,7 +8,9 @@
 
     <!-- <MobileNav></MobileNav> -->
 
-    <!-- <WeekSelectie></WeekSelectie> -->
+    <WeekSelectie></WeekSelectie>
+
+    <schedule></schedule>
 
     <Footer></Footer>
 

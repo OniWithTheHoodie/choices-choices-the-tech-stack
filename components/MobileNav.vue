@@ -1,4 +1,4 @@
-<script>
+<script setup>
     import { onMount } from 'svelte';
     let isSubnavOpen = false;
 
