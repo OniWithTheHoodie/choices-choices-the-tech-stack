@@ -6,10 +6,10 @@
             <ul class="footer__socials">
                 <h3 class="footer__h3">volg ons op social media</h3>                
                     <ul class="footer__socials-icons">
-                        <li class="footer__icons"><a href="/"><nuxt-img src="../public/images/Facebook.PNG"  alt="socials icoon Facebook" width="200px" height="200px" format="auto"/></a></li>
-                        <li class="footer__icons"><a href="/"><NuxtImg src="../public/images/X.PNG" alt="socials icoon X" width="200px" height="200px"/></a></li>
-                        <li class="footer__icons"><a href="/"><NuxtImg src="../public/images/Youtube.PNG" alt="social icoon Youtube" width="200px" height="200px"/></a></li>
-                        <li class="footer__icons"><a href="/"><NuxtImg src="../public/images/Instagram.PNG" alt="social icoon Instagram" width="200px" height="200px"/></a></li>
+                        <li class="footer__icons"><a href="/"><img src="../public/images/Facebook.PNG"  alt="socials icoon Facebook" width="200px" height="200px" format="auto"/></a></li>
+                        <li class="footer__icons"><a href="/"><img src="../public/images/X.PNG" alt="socials icoon X" width="200px" height="200px"/></a></li>
+                        <li class="footer__icons"><a href="/"><img src="../public/images/Youtube.PNG" alt="social icoon Youtube" width="200px" height="200px"/></a></li>
+                        <li class="footer__icons"><a href="/"><img src="../public/images/Instagram.PNG" alt="social icoon Instagram" width="200px" height="200px"/></a></li>
                     </ul>
                 </ul>
                 <ul class="footer__radio-veronica">
